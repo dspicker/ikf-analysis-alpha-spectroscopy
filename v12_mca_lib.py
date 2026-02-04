@@ -10,9 +10,9 @@ import sys
 import os
 import re
 import numpy
-from matplotlib import pyplot as plt
-from scipy.signal import find_peaks
-from scipy.optimize import curve_fit
+#from matplotlib import pyplot as plt
+#from scipy.signal import find_peaks
+#from scipy.optimize import curve_fit
 
 
 def check_files(filepath: str):
